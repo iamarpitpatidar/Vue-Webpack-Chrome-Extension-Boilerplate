@@ -1,0 +1,45 @@
+{
+  "name": "vue-webpack-chrome-extension-boilerplate",
+  "author": {
+    "name": "Arpit Patidar",
+    "email": "arpit.ptdr@hotmail.com",
+    "url": "https://arpitpatidar.com"
+  },
+  "contributors": [
+    {
+      "name": "Arpit Patidar",
+      "email": "arpit.ptdr@hotmail.com",
+      "url": "https://arpitpatidar.com"
+    }
+  ],
+  "bugs": "https://github.com/iamarpitpatidar/Vue-Webpack-Chrome-Extension-Boilerplate/issues",
+  "homepage": "https://github.com/iamarpitpatidar/Vue-Webpack-Chrome-Extension-Boilerplate",
+  "version": "0.0.1",
+  "license": "MIT",
+  "keywords": [
+    "vue",
+    "webpack",
+    "chrome",
+    "extension",
+    "webpack reload"
+  ],
+  "description": "Chrome Extension Boilerplate using Vue v3 Webpack v5",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iamarpitpatidar/Vue-Webpack-Chrome-Extension-Boilerplate.git"
+  },
+  "scripts": {
+    "build": "",
+    "dev": "",
+    "lint": "",
+    "pack": "",
+    "remove-evals": "",
+    "zip": ""
+  },
+  "dependencies": {
+
+  },
+  "devDependencies": {
+
+  }
+}
